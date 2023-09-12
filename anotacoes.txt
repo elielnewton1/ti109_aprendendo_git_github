@@ -11,3 +11,5 @@ git add .
 -- adicionar comnetario referente ao conjunto de modificacoes realizados
 
 git commit -a -m
+
+-- criando mais um commit no projeto
